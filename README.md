@@ -1,29 +1,25 @@
 # 👋 Hi, I'm Nida Zah
-
- **AI Developer | Computer Vision & Automation**
- Helping turn ideas into real-world ML solutions
-
----
-
-##  About Me
-
-*  I build **AI-powered applications** using Python
-*  Focused on **Computer Vision, Deep Learning & Automation**
-*  Currently mastering: **PyTorch, Transformers (HuggingFace)**
-*  Goal: Build impactful AI systems & land high-value freelance projects
+🚀 **AI Developer | Computer Vision & Automation**
+💼 Helping turn ideas into real-world ML solutions
 
 ---
 
-##  What I’m Building
-
-*  AI Image Classifier (PyTorch)
-*  Neural Style Transfer
-*  Smart Automation Tools using Python
+## ⚡ About Me
+* 🤖 I build **AI-powered applications** using Python
+* 🧠 Focused on **Computer Vision, Deep Learning & Automation**
+* 📚 Currently mastering: **PyTorch, Transformers (HuggingFace)**
+* 🎯 Goal: Build impactful AI systems & land high-value freelance projects
 
 ---
 
-##  Tech Stack
+## 🚀 What I’m Building
+* 🔍 AI Image Classifier (PyTorch)
+* 🎨 Neural Style Transfer
+* 📊 Smart Automation Tools using Python
 
+---
+
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
@@ -31,54 +27,44 @@
 
 ---
 
-##  Featured Projects
+## 📌 Featured Projects
 
-###  Computer Graphics
-
- https://github.com/Nidazah/Computer-Graphics
-
+### 🖼️ Computer Graphics
+🔗 https://github.com/Nidazah/Computer-Graphics
 * Implemented **core graphics algorithms** (Bresenham, transformations)
 * Built visual simulations for better understanding of rendering concepts
 
 ---
 
-###  AI Image Classifier *(In Progress)*
-
+### 🤖 AI Image Classifier *(In Progress)*
 * Classifying images using **Deep Learning (PyTorch)**
 * Focus: real-world datasets + deployment-ready model
 
 ---
 
-###  Neural Style Transfer *(In Progress)*
-
+### 🎨 Neural Style Transfer *(In Progress)*
 * Transforming images using **CNN-based style transfer**
 * Exploring creative AI applications
 
 ---
 
-##  GitHub Stats
-
-![Nida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidazah\&show_icons=true\&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nidazah\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidazah\&layout=compact\&theme=radical)
+### 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidazah&show_icons=true&theme=radical&hide_title=true)](https://github.com/Nidazah)
 
 ---
 
-##  Services I Can Offer
-
-*  AI / Machine Learning Projects
-*  Computer Vision Applications (OpenCV)
-*  Python Automation Scripts
-*  Data Processing & Analysis
-
----
-
-##  Connect With Me
-
- [khawajanida24@gmail.com](mailto:khawajanida24@gmail.com)
-
- [![LinkedIn](https://img.shields.io/badge/-Nida%20Zahra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidazahra24)
+## 💼 Services I Can Offer
+* 🤖 AI / Machine Learning Projects
+* 🧠 Computer Vision Applications (OpenCV)
+* ⚙️ Python Automation Scripts
+* 📊 Data Processing & Analysis
 
 ---
 
- *Currently open to freelance opportunities — let’s build something impactful!*
+## 📫 Connect With Me
+📧 [khawajanida24@gmail.com](mailto:khawajanida24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidazahra24)
+
+---
+
+⭐️ *Currently open to freelance opportunities — let’s build something impactful!*
