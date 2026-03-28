@@ -48,8 +48,12 @@
 
 ---
 
-### 📊 GitHub Stats
-![Nida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidazah&show_icons=true&theme=radical&hide=contribs,prs)
+📊 GitHub Stats
+
+
+
+
+
 
 ---
 
