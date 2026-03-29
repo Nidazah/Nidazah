@@ -38,8 +38,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=nidazah&show_icons=true&theme=radical&cache_seconds=86400)
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nidazah&show_icons=true&theme=radical&v=1" />
 ---
 
 ## 📫 Contact Me
