@@ -1,12 +1,16 @@
-# Nida Zahra | AI Engineer & Full-Stack Developer
+<p align="center">
+  # Nida Zahra | AI Engineer & Full-Stack Developer
+</p>
 
-**CS Student @ Pakistan | Python • C++ • Web Development | Building AI-Powered Solutions**
+<p align="center">
+  **CS Student @ Pakistan | Python • C++ • Web Development | Building AI-Powered Solutions**
+</p>
 
-🎯 Shipping production-ready AI tools and web applications  
-🔧 6+ projects combining ML, automation, and full-stack development  
-💼 Available for freelance projects and internships  
+ Shipping production-ready AI tools and web applications  
+ 6+ projects combining ML, automation, and full-stack development  
+ Available for freelance projects and internships  
 
-[📧 Email](mailto:khawajanida24@gmail.com) • [💼 Portfolio](#) • [🔗 LinkedIn](#www.linkedin.com/in/nidazahra24)
+[ Email](mailto:khawajanida24@gmail.com) • [ Portfolio](#) • [ LinkedIn](https://www.linkedin.com/in/nidazahra24)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Python+%7C+C%2B%2B+%7C+Web+Dev;Building+Smart+Systems;Future+Tech+Leader" />
