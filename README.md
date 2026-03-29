@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Nida Zahra</h1>
 
-<h3 align="center">🚀 Aspiring AI Engineer | Building Real-World Tech That Matters</h3>
+<h3 align="center"> Aspiring AI Engineer | Building Real-World Tech That Matters</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Python+%7C+C%2B%2B+%7C+Web+Dev;Building+Smart+Systems;Future+Tech+Leader" />
@@ -8,16 +8,16 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-* 🎓 4th Semester Computer Science Student
-* 🤖 Focused on **AI, Machine Learning & Problem Solving**
-* 💡 I design and build systems with real-world thinking
-* 🎯 Goal: Become a **top AI Engineer**
+*  6th Semester Computer Science Student
+*  Focused on **AI, Machine Learning & Problem Solving**
+*  I design and build systems with real-world thinking
+*  Goal: Become a **top AI Engineer**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github" />
@@ -25,62 +25,58 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎨 Computer Graphics Visualizer
+###  Computer Graphics Visualizer
 
-✔ Implemented DDA, Bresenham, Circle & Transformation algorithms
+✔ Implemented DDA, Bresenham, Circle & Transformation algorithms </n>
 ✔ Built using Python for algorithm visualization
 
 ---
 
-### 🌍 Online Travel System (DBMS Project)
+###  Online Travel System (DBMS Project)
 
-✔ Designed complete travel booking system (ER diagrams, schema, use-cases)
-✔ Focused on database design, relationships & normalization
+✔ Designed complete travel booking system (ER diagrams, schema, use-cases) </n>
+✔ Focused on database design, relationships & normalization </n>
 ✔ Structured system for real-world travel scenarios
 
 ---
 
-### 🧮 Smart Calculator (C++)
+###  Smart Calculator (C++)
 
-✔ CLI-based calculator with modular structure
+✔ CLI-based calculator with modular structure </n>
 ✔ Strong focus on logic building and clean implementation
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nidazah&show_icons=true&theme=radical&v=1" />
-  <br/>
+<p align="center">  
   <img src="https://streak-stats.demolab.com?user=Nidazah&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidazah&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🧩 Current Focus
+##  Current Focus
 
-* 🔥 Building AI-based projects
-* 📚 Mastering Data Structures & Algorithms
-* 🚀 Preparing for internships
+*  Building AI-based projects
+*  Mastering Data Structures & Algorithms
+*  Preparing for internships
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 📧 **[khawajanida24@gmail.com](mailto:khawajanida24@gmail.com)**
 
 ---
 
-## 💡 Quote I Live By
+##  Quote I Live By
 
 > "Don’t just learn code. Build things that matter."
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+   If you like my work, consider giving a star!
 </p>
