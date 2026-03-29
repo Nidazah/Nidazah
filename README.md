@@ -1,10 +1,6 @@
-<p align="center">
-   <strong>Nida Zahra | AI Engineer & Full-Stack Developer</strong>
-</p>
+<h1 align="center">Nida Zahra | AI Engineer & Full-Stack Developer</h1>
 
-<p align="center">
-  CS Student @ Pakistan | Python • C++ • Web Development | Building AI-Powered Solutions
-</p>
+<p align="center"> CS Student @ Pakistan | Python • C++ • Web Development | Building AI-Powered Solutions </p>
 
 - Shipping production-ready AI tools and web applications  
 - 6+ projects combining ML, automation, and full-stack development  
