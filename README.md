@@ -1,70 +1,46 @@
-# 👋 Hi, I'm Nida Zah
-🚀 **AI Developer | Computer Vision & Automation**
-💼 Helping turn ideas into real-world ML solutions
+# 👋 Hi, I'm Nida Zahra
+
+ Aspiring AI Engineer | CS Student  
+ Building real-world projects in AI, Web, and Algorithms  
 
 ---
 
-## ⚡ About Me
-* 🤖 I build **AI-powered applications** using Python
-* 🧠 Focused on **Computer Vision, Deep Learning & Automation**
-* 📚 Currently mastering: **PyTorch, Transformers (HuggingFace)**
-* 🎯 Goal: Build impactful AI systems & land high-value freelance projects
+##  About Me
+-  6th Semester CS Student  
+-  Learning AI, Machine Learning & Data Structures  
+-  Passionate about solving real-world problems  
+-  Goal: Become an AI Expert  
 
 ---
 
-## 🚀 What I’m Building
-* 🔍 AI Image Classifier (PyTorch)
-* 🎨 Neural Style Transfer
-* 📊 Smart Automation Tools using Python
+##  Tech Stack
+- Languages: Python, C++, JavaScript  
+- AI/ML: Pandas, NumPy, Scikit-learn  
+- Web: HTML, CSS, JS  
+- Tools: Git, GitHub  
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+##  Projects
 
----
+###  Computer Graphics Visualizer
+- DDA, Bresenham, Circle, Transformations  
+- Built using Python  
+-  Focus: Algorithm Visualization  
 
-## 📌 Featured Projects
+###  Online Travel System
+- Full-stack travel planning system  
+- Booking + management features  
 
-### 🖼️ Computer Graphics
-🔗 https://github.com/Nidazah/Computer-Graphics
-* Implemented **core graphics algorithms** (Bresenham, transformations)
-* Built visual simulations for better understanding of rendering concepts
-
----
-
-### 🤖 AI Image Classifier *(In Progress)*
-* Classifying images using **Deep Learning (PyTorch)**
-* Focus: real-world datasets + deployment-ready model
-
----
-
-### 🎨 Neural Style Transfer *(In Progress)*
-* Transforming images using **CNN-based style transfer**
-* Exploring creative AI applications
+###  C++ Calculator
+- CLI-based smart calculator  
 
 ---
 
 ##  GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nidazah\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nidazah&show_icons=true)
 
 ---
 
-## 💼 Services I Can Offer
-* 🤖 AI / Machine Learning Projects
-* 🧠 Computer Vision Applications (OpenCV)
-* ⚙️ Python Automation Scripts
-* 📊 Data Processing & Analysis
-
----
-
-## 📫 Connect With Me
-📧 [khawajanida24@gmail.com](mailto:khawajanida24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidazahra24)
-
----
-
-⭐️ *Currently open to freelance opportunities — let’s build something impactful!*
+## 📫 Contact Me
+📧 khawajanida24@gmail.com
