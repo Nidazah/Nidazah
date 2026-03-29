@@ -37,8 +37,8 @@
 
 ---
 
-##  GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Nidazah&show_icons=true)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nidazah&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
