@@ -1,6 +1,12 @@
-# <h1 align="center">Hi 👋, I'm Nida Zahra</h1>
+# Nida Zahra | AI Engineer & Full-Stack Developer
 
-<h3 align="center"> Aspiring AI Engineer | Building Real-World Tech That Matters</h3>
+**CS Student @ Pakistan | Python • C++ • Web Development | Building AI-Powered Solutions**
+
+🎯 Shipping production-ready AI tools and web applications  
+🔧 6+ projects combining ML, automation, and full-stack development  
+💼 Available for freelance projects and internships  
+
+[📧 Email](mailto:khawajanida24@gmail.com) • [💼 Portfolio](#) • [🔗 LinkedIn](#www.linkedin.com/in/nidazahra24)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Python+%7C+C%2B%2B+%7C+Web+Dev;Building+Smart+Systems;Future+Tech+Leader" />
@@ -8,12 +14,26 @@
 
 ---
 
-##  About Me
+## What I Build
 
-*  6th Semester Computer Science Student
-*  Focused on **AI, Machine Learning & Problem Solving**
-*  I design and build systems with real-world thinking
-*  Goal: Become a **top AI Engineer**
+I create AI-powered tools that solve real problems:
+
+**AI & Automation**  
+- Voice-controlled browser automation (Selenium + Speech Recognition)
+- Intelligent task planning systems with GPT integration
+- Interactive ML-based applications
+
+**Full-Stack Development**  
+- DBMS-backed travel booking systems with normalized schema design
+- Responsive web applications (HTML/CSS/JS)
+- Game development with Python (Pygame)
+
+**Core CS Fundamentals**  
+- Computer graphics algorithm implementations (DDA, Bresenham, transformations)
+- Data structures & algorithm problem-solving in C++
+- Object-oriented design patterns (OOAD projects)
+
+Currently focused on: Freelancing on Upwork, building portfolio projects.
 
 ---
 
@@ -62,12 +82,6 @@
 *  Building AI-based projects
 *  Mastering Data Structures & Algorithms
 *  Preparing for internships
-
----
-
-##  Contact Me
-
-📧 **[khawajanida24@gmail.com](mailto:khawajanida24@gmail.com)**
 
 ---
 
