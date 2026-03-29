@@ -1,46 +1,86 @@
-# 👋 Hi, I'm Nida Zahra
+# <h1 align="center">Hi 👋, I'm Nida Zahra</h1>
 
- Aspiring AI Engineer | CS Student  
- Building real-world projects in AI, Web, and Algorithms  
+<h3 align="center">🚀 Aspiring AI Engineer | Building Real-World Tech That Matters</h3>
 
----
-
-##  About Me
--  6th Semester CS Student  
--  Learning AI, Machine Learning & Data Structures  
--  Passionate about solving real-world problems  
--  Goal: Become an AI Expert  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Python+%7C+C%2B%2B+%7C+Web+Dev;Building+Smart+Systems;Future+Tech+Leader" />
+</p>
 
 ---
 
-##  Tech Stack
-- Languages: Python, C++, JavaScript  
-- AI/ML: Pandas, NumPy, Scikit-learn  
-- Web: HTML, CSS, JS  
-- Tools: Git, GitHub  
+## 🧠 About Me
+
+* 🎓 4th Semester Computer Science Student
+* 🤖 Focused on **AI, Machine Learning & Problem Solving**
+* 💡 I design and build systems with real-world thinking
+* 🎯 Goal: Become a **top AI Engineer**
 
 ---
 
-##  Projects
+## ⚡ Tech Stack
 
-###  Computer Graphics Visualizer
-- DDA, Bresenham, Circle, Transformations  
-- Built using Python  
--  Focus: Algorithm Visualization  
-
-###  Online Travel System
-- Full-stack travel planning system  
-- Booking + management features  
-
-###  C++ Calculator
-- CLI-based smart calculator  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nidazah&show_icons=true&theme=radical&v=1" />
+### 🎨 Computer Graphics Visualizer
+
+✔ Implemented DDA, Bresenham, Circle & Transformation algorithms
+✔ Built using Python for algorithm visualization
+
+---
+
+### 🌍 Online Travel System (DBMS Project)
+
+✔ Designed complete travel booking system (ER diagrams, schema, use-cases)
+✔ Focused on database design, relationships & normalization
+✔ Structured system for real-world travel scenarios
+
+---
+
+### 🧮 Smart Calculator (C++)
+
+✔ CLI-based calculator with modular structure
+✔ Strong focus on logic building and clean implementation
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nidazah&show_icons=true&theme=radical&v=1" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Nidazah&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidazah&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧩 Current Focus
+
+* 🔥 Building AI-based projects
+* 📚 Mastering Data Structures & Algorithms
+* 🚀 Preparing for internships
+
 ---
 
 ## 📫 Contact Me
-📧 khawajanida24@gmail.com
+
+📧 **[khawajanida24@gmail.com](mailto:khawajanida24@gmail.com)**
+
+---
+
+## 💡 Quote I Live By
+
+> "Don’t just learn code. Build things that matter."
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
+</p>
