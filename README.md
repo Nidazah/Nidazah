@@ -1,12 +1,20 @@
 <h1 align="center">Nida Zahra | AI Engineer & Full-Stack Developer</h1>
 
-<p align="center"> CS Student @ Pakistan | Python • C++ • Web Development | Building AI-Powered Solutions </p>
+<p align="center">
+  <strong>CS Student @ Pakistan | Python • C++ • Web Development | Building AI-Powered Solutions</strong>
+</p>
 
-- Shipping production-ready AI tools and web applications  
-- 6+ projects combining ML, automation, and full-stack development  
-- Available for freelance projects and internships  
+<p align="center">
+  🎯 Shipping production-ready AI tools and web applications<br>
+  🔧 6+ projects combining ML, automation, and full-stack development<br>
+  💼 Available for freelance projects and internships
+</p>
 
-[📧 Email](mailto:khawajanida24@gmail.com) • [💼 Portfolio](#) • [🔗 LinkedIn](https://www.linkedin.com/in/nidazahra24)
+<p align="center">
+  <a href="mailto:khawajanida24@gmail.com">📧 Email</a> • 
+  <a href="#">💼 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/nidazahra24">🔗 LinkedIn</a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Python+%7C+C%2B%2B+%7C+Web+Dev;Building+Smart+Systems;Future+Tech+Leader" />
@@ -14,30 +22,30 @@
 
 ---
 
-## What I Build
+## 💡 What I Build
 
 I create AI-powered tools that solve real problems:
 
-### AI & Automation
-- Voice-controlled browser automation (Selenium + Speech Recognition)  
-- Intelligent task planning systems with GPT integration  
-- Interactive ML-based applications  
+### 🤖 AI & Automation
+- Voice-controlled browser automation (Selenium + Speech Recognition)
+- Intelligent task planning systems with GPT integration
+- Interactive ML-based applications
 
-### Full-Stack Development
-- DBMS-backed travel booking systems with normalized schema design  
-- Responsive web applications (HTML/CSS/JS)  
-- Game development with Python (Pygame)  
+### 💻 Full-Stack Development
+- DBMS-backed travel booking systems with normalized schema design
+- Responsive web applications (HTML/CSS/JS)
+- Game development with Python (Pygame)
 
-### Core CS Fundamentals
-- Computer graphics algorithm implementations (DDA, Bresenham, transformations)  
-- Data structures & algorithm problem-solving in C++  
-- Object-oriented design patterns (OOAD projects)  
+### 🎓 Core CS Fundamentals
+- Computer graphics algorithm implementations (DDA, Bresenham, transformations)
+- Data structures & algorithm problem-solving in C++
+- Object-oriented design patterns (OOAD projects)
 
-Currently focused on: Freelancing on Upwork, building portfolio projects.
+**Currently focused on:** Freelancing on Upwork, building portfolio projects.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github" />
@@ -45,45 +53,49 @@ Currently focused on: Freelancing on Upwork, building portfolio projects.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Computer Graphics Visualizer
-- Implemented DDA, Bresenham, Circle & Transformation algorithms  
-- Built using Python for algorithm visualization  
-
-### Online Travel System (DBMS Project)
-- Designed complete travel booking system (ER diagrams, schema, use-cases)  
-- Focused on database design, relationships & normalization  
-- Structured system for real-world travel scenarios  
-
-### Smart Calculator (C++)
-- CLI-based calculator with modular structure  
-- Strong focus on logic building and clean implementation  
+### 🖥️ Computer Graphics Visualizer
+✔ Implemented DDA, Bresenham, Circle & Transformation algorithms  
+✔ Built using Python for algorithm visualization
 
 ---
 
-## GitHub Analytics
+### ✈️ Online Travel System (DBMS Project)
+✔ Designed complete travel booking system (ER diagrams, schema, use-cases)  
+✔ Focused on database design, relationships & normalization  
+✔ Structured system for real-world travel scenarios
 
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=Nidazah&theme=radical" />
+---
+
+### 🧮 Smart Calculator (C++)
+✔ CLI-based calculator with modular structure  
+✔ Strong focus on logic building and clean implementation
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nidazah&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Building AI-based projects  
-- Mastering Data Structures & Algorithms  
-- Preparing for internships  
+- Building AI-based projects
+- Mastering Data Structures & Algorithms
+- Preparing for internships
 
 ---
 
-## Quote I Live By
+## 💭 Quote I Live By
 
-> "Don’t just learn code. Build things that matter."
+> "Don't just learn code. Build things that matter."
 
 ---
 
 <p align="center">
-   If you like my work, consider giving a star! ⭐
+  If you like my work, consider giving a star! ⭐
 </p>
