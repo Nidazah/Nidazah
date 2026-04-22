@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  🎯 Shipping production-ready AI tools and web applications<br>
-  🔧 6+ projects combining ML, automation, and full-stack development<br>
-  💼 Available for freelance projects and internships
+  Shipping production-ready AI tools and web applications<br>
+  6+ projects combining ML, automation, and full-stack development<br>
+  Available for freelance projects and internships
 </p>
 
 <p align="center">
-  <a href="mailto:khawajanida24@gmail.com">📧 Email</a> • 
-  <a href="#">💼 Portfolio</a> • 
+  <a href="mailto:khawajanida24@gmail.com">Email</a> • 
+  <a href="#">Portfolio</a> • 
   <a href="https://www.linkedin.com/in/nidazahra24">🔗 LinkedIn</a>
 </p>
 
@@ -22,21 +22,21 @@
 
 ---
 
-## 💡 What I Build
+## What I Build
 
 I create AI-powered tools that solve real problems:
 
-### 🤖 AI & Automation
+### AI & Automation
 - Voice-controlled browser automation (Selenium + Speech Recognition)
 - Intelligent task planning systems with GPT integration
 - Interactive ML-based applications
 
-### 💻 Full-Stack Development
+### Full-Stack Development
 - DBMS-backed travel booking systems with normalized schema design
 - Responsive web applications (HTML/CSS/JS)
 - Game development with Python (Pygame)
 
-### 🎓 Core CS Fundamentals
+### Core CS Fundamentals
 - Computer graphics algorithm implementations (DDA, Bresenham, transformations)
 - Data structures & algorithm problem-solving in C++
 - Object-oriented design patterns (OOAD projects)
@@ -45,7 +45,7 @@ I create AI-powered tools that solve real problems:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github" />
@@ -53,28 +53,28 @@ I create AI-powered tools that solve real problems:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🖥️ Computer Graphics Visualizer
+### Computer Graphics Visualizer
 ✔ Implemented DDA, Bresenham, Circle & Transformation algorithms  
 ✔ Built using Python for algorithm visualization
 
 ---
 
-### ✈️ Online Travel System (DBMS Project)
+### Online Travel System (DBMS Project)
 ✔ Designed complete travel booking system (ER diagrams, schema, use-cases)  
 ✔ Focused on database design, relationships & normalization  
 ✔ Structured system for real-world travel scenarios
 
 ---
 
-### 🧮 Smart Calculator (C++)
+### Smart Calculator (C++)
 ✔ CLI-based calculator with modular structure  
 ✔ Strong focus on logic building and clean implementation
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nidazah&theme=radical" alt="GitHub Streak" />
@@ -82,7 +82,7 @@ I create AI-powered tools that solve real problems:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building AI-based projects
 - Mastering Data Structures & Algorithms
@@ -90,12 +90,12 @@ I create AI-powered tools that solve real problems:
 
 ---
 
-## 💭 Quote I Live By
+## Quote I Live By
 
 > "Don't just learn code. Build things that matter."
 
 ---
 
 <p align="center">
-  If you like my work, consider giving a star! ⭐
+  If you like my work, consider giving a star!
 </p>
