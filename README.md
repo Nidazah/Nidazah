@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="mailto:khawajanida24@gmail.com">Email</a> • 
-  <a href="#">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/nidazahra24">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nidazahra24">LinkedIn</a>
 </p>
 
 <p align="center">
